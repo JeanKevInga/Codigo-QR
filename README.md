@@ -1,2 +1,1 @@
 # Codigo-QR
-Python
