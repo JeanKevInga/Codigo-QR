@@ -1,5 +1,5 @@
 # Codigo-QR
-##Acerca de la automatización para el acceso
+## Acerca de la automatización para el acceso
 Para un mayor alacance en la data de las personas en relación a las dosis de la vacuna contra la covid 19
 ## API documentación:
 * [Selenium](https://github.com/SeleniumHQ/selenium)
