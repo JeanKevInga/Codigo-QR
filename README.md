@@ -7,3 +7,5 @@ La interacción física con Tollkit en el proceso de automatización se dara med
 * [Selenium](https://github.com/SeleniumHQ/selenium)
 <h3>Automatización de la página del Minsa</h3>
 <p>Para el proceso de automatización de la pagina:</p>
+  <li>Atravez del API Selenium, atravez del lenguaje de programación de Python, comanzaremos controlando mediante un WebDriver el navegador que usaremos sera Chrome:
+https://chromedriver.chromium.org/downloads, para saber la versión que se debera descargar, nos dirigimos a la sección-Ayuda-del navegador posteriormente se le dara a -Información de Google Chrome-y se podra observar la versión que se este usando, para luego pasar a la descarga del controlador del navegador.</li>
